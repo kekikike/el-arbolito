@@ -1,0 +1,20 @@
+﻿Ranking,Variable,Codigo,Importancia (%)
+1,Unidades aprobadas 2do sem,aprobadas_2do_sem,30.62752649077612
+2,Unidades aprobadas 1er sem,aprobadas_1er_sem,16.13814667418641
+3,Nota promedio 1er sem,nota_1er_sem,12.453922723852095
+4,Nota promedio 2do sem,nota_2do_sem,12.090111807181884
+5,Pagos al dia,pagos_al_dia,8.804848214267524
+6,Carrera,carrera,4.24480069361513
+7,Beca,beca,3.6558068836028452
+8,Unidades inscritas 2do sem,inscritas_2do_sem,2.7895303280109562
+9,Unidades inscritas 1er sem,inscritas_1er_sem,2.5063907063357638
+10,Genero,genero,1.8610759403859871
+11,Modalidad de admision,modalidad_admision,1.5847176901154094
+12,Ocupacion madre,ocupacion_madre,0.7247681714302074
+13,Ocupacion padre,ocupacion_padre,0.6961435735563197
+14,Nivel educ. madre,nivel_educ_madre,0.5354754266495612
+15,Nivel educ. padre,nivel_educ_padre,0.5004759372140243
+16,Desplazado,desplazado,0.31827289004687037
+17,Turno,turno,0.22770354191450423
+18,Estado civil,estado_civil,0.19662306521777717
+19,Internacional,internacional,0.043659241640605945
