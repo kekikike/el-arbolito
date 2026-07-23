@@ -17,7 +17,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 rf = RandomForestClassifier(
     n_estimators=10,
-    max_depth=5,
+    max_depth=7,
     min_samples_split=10,
     min_samples_leaf=5,
     random_state=42,
@@ -61,7 +61,7 @@ artifact = {
     "accuracy": float(acc),
     "feature_count": int(X.shape[1]),
     "n_estimators": 10,
-    "max_depth": 5,
+    "max_depth": 7,
     "min_samples_split": 10,
     "min_samples_leaf": 5,
     "mapping_modalidad": {1: "1ra fase - contingente general", 2: "Mayor de 23 anos", 3: "Estudiante internacional", 4: "Cambio de carrera/institucion", 5: "Otra via de ingreso"},
